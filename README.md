@@ -1,4 +1,8 @@
+## To Run:
+`./a.out /home/g8r-b8/Projects/cppLab/cvLab/assets/pika.jpg`
+
 ## TODO:
+
     - Follow instructions here to set up CMake for the first time: https://stackoverflow.com/questions/74916407/can-c-projects-libraries-that-have-external-dependencies-be-configured-to-work
     - Ensure path properly set up
     - Ensure repo properly set up
@@ -15,6 +19,9 @@ https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html
 
 #### Could not find .cmake file:
 https://stackoverflow.com/questions/8711109/could-not-find-module-findopencv-cmake-error-in-configuration-process
+
+#### General CMake Tutorial:
+https://cmake.org/getting-started/
 
 #### General
 https://stackoverflow.com/questions/74916407/can-c-projects-libraries-that-have-external-dependencies-be-configured-to-work

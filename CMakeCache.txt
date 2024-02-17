@@ -222,6 +222,15 @@ OpenCV_CONFIG_PATH:FILEPATH=/home/g8r-b8/Projects/cppLab/cvLab/cmake-modules
 OpenCV_FOUND:BOOL=FALSE
 
 //Value Computed by CMake
+cvLab.cpp_BINARY_DIR:STATIC=/home/g8r-b8/Projects/cppLab/cvLab
+
+//Value Computed by CMake
+cvLab.cpp_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+cvLab.cpp_SOURCE_DIR:STATIC=/home/g8r-b8/Projects/cppLab/cvLab
+
+//Value Computed by CMake
 cvLab_BINARY_DIR:STATIC=/home/g8r-b8/Projects/cppLab/cvLab
 
 //Value Computed by CMake

@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <opencv2/openccv.hpp>
+#include <opencv2/opencv.hpp>
+#include "opencv2/imgcodecs.hpp"
 
 using namespace cv;
 
@@ -10,7 +11,7 @@ int main(int argc, char** argv){
   }
   
   Mat image;
-  image = imread(argv[1], 'IMREAD_COLOR');
+  image = imread(argv[1], IMREAD_COLOR);
 
   if ( !image.data ){
     printf("No image data \n");
